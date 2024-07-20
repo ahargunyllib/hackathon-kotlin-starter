@@ -26,7 +26,6 @@
 Here is the requested directory structure in Markdown format:
 
 ```markdown
-```
 .
 ├── app
 │   ├── src
