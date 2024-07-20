@@ -23,11 +23,8 @@
 - [Room](https://developer.android.com/jetpack/androidx/releases/room)
 
 ## Directory Structure
-Here is the requested directory structure in Markdown format:
 
 ```markdown
-```
-.
 ├── app
 │   ├── src
 │   │   ├── main
